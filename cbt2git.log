@@ -1,0 +1,40 @@
+2023-04-03 02:20:02.716596 - Initialized conversion of CBT742
+2023-04-03 02:20:03.050963 - Received CBT.V504.FILE742.PDS from FILE742.XMI 
+2023-04-03 02:20:03.053743 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:20:03.056007 - De-xmi-ed $$DATFRM to CBT742/docs/$$DATFRM.doc
+2023-04-03 02:20:03.057285 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:20:03.059723 - De-xmi-ed $$PGMDSC to CBT742/docs/$$PGMDSC.doc
+2023-04-03 02:20:03.060892 - Found #CONFIG.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#CONFIG
+2023-04-03 02:20:03.062056 - Found #CPARC.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#CPARC
+2023-04-03 02:20:03.063238 - Found #DESC.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#DESC
+2023-04-03 02:20:03.064562 - Found #DETAIL.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#DETAIL
+2023-04-03 02:20:03.065692 - Found #FORMAT.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#FORMAT
+2023-04-03 02:20:03.066973 - Found #HISTORY.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#HISTORY
+2023-04-03 02:20:03.068325 - Found #INSTALL.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#INSTALL
+2023-04-03 02:20:03.070022 - Found #TOUCHJB.jcl (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/#TOUCHJB
+2023-04-03 02:20:03.071052 - Found @FILE742.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/@FILE742
+2023-04-03 02:20:03.072257 - Found A#CAN.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#CAN
+2023-04-03 02:20:03.073353 - Found A#CMDCK.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#CMDCK
+2023-04-03 02:20:03.074470 - Found A#CMP.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#CMP
+2023-04-03 02:20:03.075886 - Found A#CPARC.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#CPARC
+2023-04-03 02:20:03.077136 - Found A#DESCP.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#DESCP
+2023-04-03 02:20:03.078197 - Found A#DHISTP.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#DHISTP
+2023-04-03 02:20:03.079259 - Found A#END.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#END
+2023-04-03 02:20:03.080649 - Found A#HISTP.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#HISTP
+2023-04-03 02:20:03.082023 - Found A#INFO.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#INFO
+2023-04-03 02:20:03.083361 - Found A#INIT.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#INIT
+2023-04-03 02:20:03.084650 - Found A#MAKE.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#MAKE
+2023-04-03 02:20:03.085712 - Found A#OPEN.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#OPEN
+2023-04-03 02:20:03.086875 - Found A#OPT.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#OPT
+2023-04-03 02:20:03.088230 - Found A#OPTDP.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#OPTDP
+2023-04-03 02:20:03.089599 - Found A#OPTMP.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#OPTMP
+2023-04-03 02:20:03.090832 - Found A#OPTS.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#OPTS
+2023-04-03 02:20:03.091967 - Found A#REST.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#REST
+2023-04-03 02:20:03.093277 - Found A#SAVE.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#SAVE
+2023-04-03 02:20:03.094442 - Found A#TOUCH.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#TOUCH
+2023-04-03 02:20:03.095564 - Found A#VERSP.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#VERSP
+2023-04-03 02:20:03.096770 - Found A#VHIST.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#VHIST
+2023-04-03 02:20:03.097925 - Found A#VIEW.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/A#VIEW
+2023-04-03 02:20:03.099131 - Found PDS2TXT.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/PDS2TXT
+2023-04-03 02:20:03.100529 - Found SOURCE.txt (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/SOURCE
+2023-04-03 02:20:03.101822 - Found TXT2PDS.rexx (text/plain) in CBT.V504.FILE742.PDS, moved to PDS/TXT2PDS
